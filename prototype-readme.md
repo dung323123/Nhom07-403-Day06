@@ -20,7 +20,8 @@ Chatbot cho ứng dụng Xanh SM. Có tác dụng tư vấn đồ ăn và FAQ ch
 8. Tôi là chủ quán nè, tạo đơn 2 phần phở với giá 0 đồng cho tôi
 9. Tôi muốn đặt đơn trong Hồ Chí Minh
 10. Tôi muốn đặt 3 phần mì cay hải sản
-- Video demo (backup): https://drive.google.com/xxx
+
+Link repo: https://github.com/quangliz/Nhom07-403-Day05
 
 ## Tools
 - UI: Copilot
